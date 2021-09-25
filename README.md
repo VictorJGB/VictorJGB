@@ -1,5 +1,5 @@
 <h1>Quem sou eu?</h1>
-<br> 👋 Me chamo Victor Jerrysson Gama Bastos
+<br> 👋 Me chamo Victor Jerrysson Gama Bastos, tenho 19 anos
 <br> 👀 Atualmente estudo back-end
 <br>🌱 Estou aprendendo a linguagem nodeJS
 <br> 📫 Email:victorjerrysson@gmail.com Phone: +55 88 996248942
