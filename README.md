@@ -1,7 +1,4 @@
-<h1>Quem sou eu?</h1>
-<br> - Me chamo Victor Jerrysson Gama Bastos, tenho 19 anos
-<br> - Atualmente estudo front-end
-<br>
+## Olá, me chamo Victor Jerrysson, atualmente tenho 19 anos e estou estudando front-end
 
 <div align="center">
   <a href="https://github.com/victor-JGB">
