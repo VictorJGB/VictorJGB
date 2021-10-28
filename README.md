@@ -1,6 +1,6 @@
 ## Olá, me chamo Victor Jerrysson, sou um estudante de front-end
 
-<br> - Email:victorjerrysson@gmail.com 
+<br> 📧 Email: victorjerrysson@gmail.com 
 <br> - Phone: +55 88 996248942
 <br> - Linkedin: www.linkedin.com/in/victor-jerrysson-gama-bastos-084793203
 
