@@ -1,4 +1,8 @@
-## Olá, me chamo Victor Jerrysson, atualmente tenho 19 anos e estou estudando front-end
+## Olá, me chamo Victor Jerrysson, sou um estudante de front-end
+
+<br> - Email:victorjerrysson@gmail.com 
+<br> - Phone: +55 88 996248942
+<br> - Linkedin: www.linkedin.com/in/victor-jerrysson-gama-bastos-084793203
 
 <div align="center">
   <a href="https://github.com/victor-JGB">
@@ -6,9 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-JGB&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<br> - Email:victorjerrysson@gmail.com 
-<br> - Phone: +55 88 996248942
-<br> - Linkedin: www.linkedin.com/in/victor-jerrysson-gama-bastos-084793203
+
 
 <!---
 victor-JGB/victor-JGB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
