@@ -1,4 +1,11 @@
-<h1 align="center">Olá, me chamo Victor Jerrysson, sou um estudante de front-end</h1>
+<h1 align="center">Sejam Bem Vindos(as), é um prazer me apresentar</h1>
+
+<h1>Quem sou eu na fila do pão?</h1>
+
+- Tenho 20 anos
+- Sou um desenvolvedor front-end focando atualmente em ReactJS
+- Sou apaixonado por games e animes
+- "Minha magia é não desistir"
 
 ##
 
