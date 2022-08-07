@@ -2,10 +2,7 @@
 
 <h1 align="center">Olá, me chamo Victor Jerrysson, sou um estudante de front-end</h1>
 
-<div align="center">
-  <a href="https://github.com/victor-JGB"/>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorJGB)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=VictorJGB&show_icons=true)
 
 ##
   
