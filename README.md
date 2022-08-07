@@ -14,7 +14,7 @@
 ##
 
 <div align="center" style="display: inline_block">
-  <h1 align="center">Minha habilidades</h1>
+  <h1 align="center">Nisso aqui eu me garanto</h1>
   <img align="center" alt="Jerry-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="JerryCSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="center" alt="JerryJavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
