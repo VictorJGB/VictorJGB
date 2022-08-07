@@ -4,7 +4,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorJGB&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
-  
+
+<h1 align="center">Minha habilidades</h1>
+<br>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Jerry-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jerry-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
