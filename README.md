@@ -1,8 +1,16 @@
 <h1 align="center">Olá, me chamo Victor Jerrysson, sou um estudante de front-end</h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorJGB&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorJGB&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+##
 
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorJGB&theme=tokyonight&repo=github-readme-stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorJGB&layout=compact&theme=tokyonight&repo=convoychat" />
+  </a>
+</div>
+  
 ##
 
 <div align="center" style="display: inline_block">
