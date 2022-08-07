@@ -2,9 +2,7 @@
 
 <h1 align="center">Olá, me chamo Victor Jerrysson, sou um estudante de front-end</h1>
 
-<center>
-  ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=VictorJGB&show_icons=true&theme=tokyonight)
-</center>
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=VictorJGB&show_icons=true&theme=tokyonight)
 
 ##
   
