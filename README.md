@@ -1,7 +1,6 @@
 <h1 align="center">Sejam Bem Vindos(as), é um prazer me apresentar</h1>
 
-<h1>Quem sou eu na fila do pão?</h1>
-
+### Quem sou eu na fila do pão?
 - Tenho 20 anos
 - Sou um desenvolvedor front-end focando atualmente em ReactJS
 - Sou apaixonado por games e animes
@@ -10,6 +9,7 @@
 ##
 
 <div align="center">
+  <h1>GitHub Stats</h1>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorJGB&theme=tokyonight&repo=github-readme-stats" />
   </a>
