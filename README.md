@@ -8,10 +8,9 @@
 
 ##
 
-<div align="center">
+  
+<div align="center" style="display: inline_block">
   <h1>GitHub Stats</h1>
-</div>
-<div style="display: inline_block">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorJGB&theme=tokyonight&repo=github-readme-stats" />
   </a>
