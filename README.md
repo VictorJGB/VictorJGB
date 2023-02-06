@@ -12,13 +12,13 @@
   <h1>GitHub Stats</h1>
 </div>
 <div style="display: inline_block">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorJGB&theme=tokyonight&repo=github-readme-stats" />
-</a>
-<br/>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorJGB&layout=compact&theme=tokyonight&repo=convoychat" />
-</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorJGB&theme=tokyonight&repo=github-readme-stats" />
+  </a>
+  <br/>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorJGB&layout=compact&theme=tokyonight&repo=convoychat" />
+  </a>
 </div>
   
 ##
@@ -38,7 +38,6 @@
 <div align="center">
   <h1>Agora você sabe onde me achar</h1>
   <a href="https://instagram.com/_jerryGB" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?phone=5588996248942&text=Olá, me chamo Victor" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatovictorjerrysson@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victor-jerrysson-gama-bastos-084793203" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
