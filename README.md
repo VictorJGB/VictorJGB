@@ -11,6 +11,7 @@
 <div align="center">
   <h1>GitHub Stats</h1>
 </div>
+<div align="center" style="display: inline_block">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorJGB&theme=tokyonight&repo=github-readme-stats" />
 </a>
@@ -18,6 +19,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorJGB&layout=compact&theme=tokyonight&repo=convoychat" />
 </a>
+</div>
   
 ##
 
