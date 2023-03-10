@@ -2,7 +2,7 @@
 
 ### Quem sou eu na fila do pão?
 - Tenho 20 anos
-- Sou um desenvolvedor front-end focando atualmente em ReactJS
+- Sou um desenvolvedor frontend focando atualmente em ReactJS
 - Sou apaixonado por games, animes e tecnologia
 - "Minha magia é não desistir"
 
