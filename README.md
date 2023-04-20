@@ -1,8 +1,9 @@
 <h1 align="center">Sejam Bem Vindos(as), é um prazer me apresentar</h1>
 
-### Quem sou eu na fila do pão?
+### Quem sou eu?
 - Tenho 20 anos
-- Sou um desenvolvedor frontend focando atualmente em ReactJS
+- Desenvolvedor Front-end
+- Descobri o mundo da programação no ensino médio em 2017 e venho me aprimorando desde então.
 - Sou apaixonado por games, animes e tecnologia
 - "Minha magia é não desistir"
 
