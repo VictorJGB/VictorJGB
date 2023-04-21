@@ -1,4 +1,10 @@
 <h1 align="center">Welcome, it's a pleasure to introduce myself</h1>
+<div align="center">
+  <h1>GitHub Stats</h1>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorJGB&theme=tokyonight&repo=github-readme-stats" />
+  </a>
+</div>
 
 ### Who is Jerry?
 - Studiyng Information Systems at IFCE
@@ -8,20 +14,8 @@
 - I like to play games and watch animes at free time
 - "My magic is not to give up"
 
-##
-
-  
-<div align="center">
-  <h1>GitHub Stats</h1>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorJGB&theme=tokyonight&repo=github-readme-stats" />
-  </a>
-</div>
-  
-##
-
+### I have experince with
 <div align="center" style="display: inline_block">
-  <h1 align="center">I have experience with:</h1>
   <img align="center" alt="Jerry-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jerry-CSS"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img align="center" alt="Jerry-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
