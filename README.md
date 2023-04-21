@@ -1,5 +1,7 @@
 # Welcome, it's a pleasure to introduce myself
+
 <br />
+
 ## About me
 
 ### Who is Jerry?
