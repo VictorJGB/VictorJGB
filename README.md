@@ -22,7 +22,9 @@
 - I like to play games and watch animes at free time
 - "My magic is not to give up"
 
-### I have experince with
+## Experience
+
+## Languages and Frameworks
 <div align="center" style="display: inline_block">
   <img align="center" alt="Jerry-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jerry-CSS"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
