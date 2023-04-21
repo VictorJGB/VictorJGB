@@ -43,7 +43,7 @@
   
 ### Tools
 <div style="display: inline_block">
-  <img align="center" alt="Jerry-HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Jerry-HTML" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   -
   
 </div>
