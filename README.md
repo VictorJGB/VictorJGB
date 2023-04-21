@@ -1,4 +1,6 @@
 <h1 align="center">Welcome, it's a pleasure to introduce myself</h1>
+
+##About me
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorJGB&theme=tokyonight&repo=github-readme-stats" />
