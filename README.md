@@ -1,11 +1,12 @@
 <h1 align="center">Sejam Bem Vindos(as), é um prazer me apresentar</h1>
 
-### Quem sou eu?
-- Cursando Bacharelado em Sistemas de Informação (IFCE Campus Crato)
-- Tenho 20 anos
-- Desenvolvedor Front-end
-- Sou apaixonado por games, animes e tecnologia
-- "Minha magia é não desistir"
+### Who is Jerry?
+- Studiyng Information Systems at IFCE
+- 20 years
+- Front-end Developer
+- I have a passion for technology, seeking to improve myself everyday!
+- I like to play games and watch animes at free time
+- "My magic is not to give up"
 
 ##
 
