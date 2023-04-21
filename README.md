@@ -66,6 +66,10 @@
   <img align="center" alt="yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
 </div>
   
+## Some of my projects
+
+  - [PremierBrasil](premierbrasil1bi.com.br)
+
 ## Reference
 
 ### Icons
