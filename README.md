@@ -3,13 +3,14 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorJGB&theme=tokyonight&repo=github-readme-stats" />
   </a>
-  <div align="center">
+</div>
+
+<div align="center">
     <a href="https://instagram.com/_jerryGB" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-     badge&logo=instagram&logoColor=white"></a>
     <a href = "mailto:victorgb.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" ></a>
     <a href="https://www.linkedin.com/in/victor-jerrysson-gama-bastos-084793203" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
   </div>
-</div>
-
+  
 ### Who is Jerry?
 - Studiyng Information Systems at IFCE
 - 20 years
