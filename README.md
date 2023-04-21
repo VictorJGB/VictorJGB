@@ -6,8 +6,7 @@
 - Studiyng Information Systems at IFCE
 - 20 years
 - Front-end Developer
-- I have a passion for technology, seeking to improve myself everyday!
-- I like to play games and watch animes at free time
+- Passion for technology, play games and watch animes at free time
 - "My magic is not to give up"
 
 ### Stats
