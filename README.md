@@ -1,5 +1,5 @@
 # Welcome, it's a pleasure to introduce myself
-
+<br />
 ## About me
 
 ### Who is Jerry?
@@ -21,8 +21,8 @@
  - <a href="https://www.linkedin.com/in/victor-jerrysson-gama-bastos-084793203" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
   - <a href="https://instagram.com/_jerryGB" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  
+ <br />
  
-  
 ## Techs Experience
 
 ### Languages and Frameworks
@@ -62,6 +62,8 @@
   <img align="center" alt="yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
 </div>
   
+<br />
+  
 ## Some of my projects
 
 ### Premier Brasil
@@ -69,6 +71,8 @@
 
 ![premier_01](https://user-images.githubusercontent.com/62398638/233527063-0fd6c852-2e26-4e65-8fd9-6b846bf0f802.png)
 ![premier_02](https://user-images.githubusercontent.com/62398638/233529823-04b8ed81-fbd1-469f-8171-a12f50f9b569.png)
+  
+ <br />
   
 ## Reference
 
