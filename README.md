@@ -2,6 +2,14 @@
 
 ## About me
 
+### Who is Jerry?
+- Studiyng Information Systems at IFCE
+- 20 years
+- Front-end Developer
+- I have a passion for technology, seeking to improve myself everyday!
+- I like to play games and watch animes at free time
+- "My magic is not to give up"
+
 ### Stats
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -14,14 +22,6 @@
   - <a href = "mailto:victorgb.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" ></a>
   - <a href="https://www.linkedin.com/in/victor-jerrysson-gama-bastos-084793203" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
   
-### Who is Jerry?
-- Studiyng Information Systems at IFCE
-- 20 years
-- Front-end Developer
-- I have a passion for technology, seeking to improve myself everyday!
-- I like to play games and watch animes at free time
-- "My magic is not to give up"
-
 ## Techs Experience
 
 ### Languages and Frameworks
