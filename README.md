@@ -1,4 +1,4 @@
-<h1 align="center">Welcome, it's a pleasure to introduce myself</h1>
+# Welcome, it's a pleasure to introduce myself
 
 ## About me
 
