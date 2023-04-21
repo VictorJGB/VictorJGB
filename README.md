@@ -14,7 +14,7 @@
 <div align="center">
   <h1>GitHub Stats</h1>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="350"  width="400" src="https://github-readme-stats.vercel.app/api?username=VictorJGB&theme=tokyonight&repo=github-readme-stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorJGB&theme=tokyonight&repo=github-readme-stats" />
   </a>
 </div>
   
