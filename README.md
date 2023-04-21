@@ -36,6 +36,15 @@
 </div>
   
 ##
+<div align="center" style="display: inline_block">
+  <h1 align="center">Tools i have work with:</h1>
+  <img align="center" alt="Jerry-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Jerry-CSS"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img align="center" alt="Jerry-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  
+</div>
+  
+##
   
 <div align="center">
   <h1>Now you know how to find me</h1>
