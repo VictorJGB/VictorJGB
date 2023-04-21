@@ -16,9 +16,6 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" height="350"  width="400" src="https://github-readme-stats.vercel.app/api?username=VictorJGB&theme=tokyonight&repo=github-readme-stats" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" height="350"  width="370" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorJGB&layout=compact&theme=tokyonight&repo=convoychat" />
-  </a>
 </div>
   
 ##
