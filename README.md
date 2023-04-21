@@ -1,4 +1,4 @@
-<h1 align="center">Sejam Bem Vindos(as), é um prazer me apresentar</h1>
+<h1 align="center">Welcome, it's a pleasure to introduce myself</h1>
 
 ### Who is Jerry?
 - Studiyng Information Systems at IFCE
