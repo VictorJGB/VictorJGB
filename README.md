@@ -79,6 +79,12 @@
 
 ![aura_discord_screenshot](https://github.com/VictorJGB/VictorJGB/assets/62398638/ab33e6c1-5a71-4ec5-b98c-7f1c2b375308)
 
+### Theme Switch Calculator
+[repository](https://github.com/VictorJGB/theme-switch-calculator)
+
+![theme_switch_calc01](https://github.com/VictorJGB/VictorJGB/assets/62398638/610b646f-3777-480b-a6e5-7bcec7b9e75a)
+![theme_switch_calc02](https://github.com/VictorJGB/VictorJGB/assets/62398638/1f0b8db0-4916-4960-8f99-c471bc18acea)
+
 
  <br />
   
