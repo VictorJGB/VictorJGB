@@ -73,7 +73,9 @@
 
 ![premier_01](https://user-images.githubusercontent.com/62398638/233527063-0fd6c852-2e26-4e65-8fd9-6b846bf0f802.png)
 ![premier_02](https://user-images.githubusercontent.com/62398638/233529823-04b8ed81-fbd1-469f-8171-a12f50f9b569.png)
-  
+
+### Aura Discord
+
  <br />
   
 ## Reference
