@@ -75,6 +75,10 @@
 ![premier_02](https://user-images.githubusercontent.com/62398638/233529823-04b8ed81-fbd1-469f-8171-a12f50f9b569.png)
 
 ### Aura Discord
+[repository](https://github.com/VictorJGB/aura-discord)
+
+![aura_discord_screenshot](https://github.com/VictorJGB/VictorJGB/assets/62398638/ab33e6c1-5a71-4ec5-b98c-7f1c2b375308)
+
 
  <br />
   
