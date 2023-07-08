@@ -5,7 +5,7 @@
 ## About me
 
 ### Who is Jerry?
-- Studying Information Systems at IFCE
+- Studying Information Systems at IFCE (Instituto Federal do Ceará)
 - 20 years
 - Front-end Developer
 - Passion for technology, play games and watch animes at free time
