@@ -68,6 +68,12 @@
   
 ## Some of my projects
 
+### Portfolio Bootstrap
+[repository](https://github.com/VictorJGB/portifolio-bootstrap)
+
+![portifolio01](https://github.com/VictorJGB/VictorJGB/assets/62398638/466f1826-955c-4e70-a9dd-06829db81b66)
+
+
 ### Premier Brasil
 [Demo](premierbrasil1bi.com.br)
 
@@ -78,12 +84,6 @@
 [repository](https://github.com/VictorJGB/aura-discord)
 
 ![aura_discord_screenshot](https://github.com/VictorJGB/VictorJGB/assets/62398638/ab33e6c1-5a71-4ec5-b98c-7f1c2b375308)
-
-### Theme Switch Calculator
-[repository](https://github.com/VictorJGB/theme-switch-calculator)
-
-![theme_switch_calc01](https://github.com/VictorJGB/VictorJGB/assets/62398638/610b646f-3777-480b-a6e5-7bcec7b9e75a)
-![theme_switch_calc02](https://github.com/VictorJGB/VictorJGB/assets/62398638/1f0b8db0-4916-4960-8f99-c471bc18acea)
 
  <br />
   
