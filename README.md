@@ -9,7 +9,7 @@
 - 20 years
 - Front-end Developer
 - Passion for technology, play games and watch animes at free time
-- "My magic is not to give up"
+- "My magic is to not give up"
 
 ### Stats
 <div>
