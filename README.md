@@ -63,7 +63,14 @@
   -
   <img align="center" alt="yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
 </div>
-  
+
+### Studying
+<div style="display: inline_block">
+  <img align="center" alt="next" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  -
+  <img align="center" alt="tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+</div>
+
 <br />
   
 ## Some of my projects
