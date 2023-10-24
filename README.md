@@ -1,5 +1,5 @@
 # Welcome, it's a pleasure to introduce myself
-
+<img src="https://github.com/VictorJGB/VictorJGB/assets/images/banner-i.png"
 <br />
 
 ## About me
