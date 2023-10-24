@@ -12,8 +12,8 @@
     <li>Front-end Developer</li>
     <li>Passion for technology, play games and watch animes at free time</li>
     <li>"My magic is to not give up"</li>
-  </div>
-  <img src="https://github.com/VictorJGB/VictorJGB/blob/main/assets/gifs/modern-work.gif" width="100px" align="right"/>
+  </ul>
+  <img src="https://github.com/VictorJGB/VictorJGB/blob/main/assets/gifs/modern-work.gif" width="200px" align="right"/>
 </div>
 
 ### Stats
