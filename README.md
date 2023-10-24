@@ -5,7 +5,7 @@
 ## About me
 
 ### Who is Jerry?
-<div style="display:flex;">
+<div style="display:flex; align-items: center; justify-content: center">
   <ul align="left" width="50%">
     <li>Studying Information Systems at IFCE (Instituto Federal do Ceará)</li>
     <li>20 years</li>
@@ -13,9 +13,7 @@
     <li>Passion for technology, play games and watch animes at free time</li>
     <li>"My magic is to not give up"</li>
   </ul>
-  <div width="50%" align="center">
-    <img src="https://github.com/VictorJGB/VictorJGB/blob/main/assets/gifs/modern-work.gif" width="100%" align="center"/>
-  </div>
+    <img src="https://github.com/VictorJGB/VictorJGB/blob/main/assets/gifs/modern-work.gif" width="200px" align="center"/>
 </div>
 
 ### Stats
