@@ -132,7 +132,7 @@
 
 ### Portfolio Bootstrap
 <ul align="left">
-    <li>Repositorio: <a href="https://github.com/VictorJGB/portifolio-bootstrap" target="_blank">portifolio-bootstrap</a></li>
+    <li>Repository: <a href="https://github.com/VictorJGB/portifolio-bootstrap" target="_blank">portifolio-bootstrap</a></li>
     <li>Demo: <a href="https://portifolio-bootstrap-kappa.vercel.app" target="_blank">vercel</a></li>
     <li>Techs:  
         <code><img align="center" alt="angular" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" width="30px"/></code>
