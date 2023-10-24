@@ -1,5 +1,6 @@
 <h1 align="center">Welcome, it's a pleasure to introduce myself</h1>
-<img src="./assets/images/banner-1.png" />
+<!-- <img src="./assets/images/banner-1.png" /> -->
+<img src="./assets/gifs/deku-02.gif" />
 <br />
 
 ## About me
