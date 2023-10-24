@@ -24,7 +24,7 @@
 </div>
 
 ### Contact:
- - <a href = "mailto:victorgb.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" ></a>
+ - <a href="mailto:victorgb.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" ></a>
  - <a href="https://www.linkedin.com/in/jerry-dev-084793203" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
   - <a href="https://instagram.com/_jerryGB" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  
@@ -92,8 +92,8 @@
 ## Some of my projects
 
 ### Portfolio Bootstrap
-[repository](https://github.com/VictorJGB/portifolio-bootstrap) </br>
-[demo](https://portifolio-bootstrap-kappa.vercel.app)
+Repositorio: <a href="https://github.com/VictorJGB/portifolio-bootstrap" target="_blank">portifolio-bootstrap</a> </br>
+Demo: <a href="https://portifolio-bootstrap-kappa.vercel.app" target="_blank">vercel</a> </br>
 
 ![portifolio01](https://github.com/VictorJGB/VictorJGB/assets/62398638/466f1826-955c-4e70-a9dd-06829db81b66)
 
