@@ -1,4 +1,4 @@
-# Welcome, it's a pleasure to introduce myself
+<h1 align="center">Welcome, it's a pleasure to introduce myself</h1>
 <img src="./assets/images/banner-1.png" />
 <br />
 
@@ -92,10 +92,13 @@
 ## Some of my projects
 
 ### Portfolio Bootstrap
-Repositorio: <a href="https://github.com/VictorJGB/portifolio-bootstrap" target="_blank">portifolio-bootstrap</a> </br>
-Demo: <a href="https://portifolio-bootstrap-kappa.vercel.app" target="_blank">vercel</a> </br>
-
-![portifolio01](https://github.com/VictorJGB/VictorJGB/assets/62398638/466f1826-955c-4e70-a9dd-06829db81b66)
+<div style="dislay: block;">
+    <ul>
+        <li>Repositorio: <a href="https://github.com/VictorJGB/portifolio-bootstrap" target="_blank">portifolio-bootstrap</a></li>
+        <li>Demo: <a href="https://portifolio-bootstrap-kappa.vercel.app" target="_blank">vercel</a></li>
+    </ul>
+    <img src="./assets/images/portifolio-boostrap.png" width="400px"/>
+</div>
 
 
 
