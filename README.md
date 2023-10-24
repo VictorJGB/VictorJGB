@@ -1,12 +1,16 @@
-<h1 align="center">
-    💻Hi, I'm Victor Jerrysson 💻</br>
-    it's a pleasure to introduce myself
-</h1>
+<div align="center" >
+    <h1 align="center">
+        💻Hi, I'm Victor Jerrysson 💻</br>
+        it's a pleasure to introduce myself
+    </h1>
+    `Sit back and enjoy the ride`
+</div>
+
 
 <div align="center">
     <img src="https://media.tenor.com/00t6LtNWYfYAAAAC/deku-izuku-midoriya.gif" align="center"/>
 </div>
-<!-- <img src="./assets/gifs/deku-02.gif" width="100%" /> -->
+
 <br />
 
 <h1>
