@@ -172,3 +172,6 @@
 
 ### Icons
   - [Badges](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+
+## See u next time!
+<img src="./assets/gifs/deku-01.gif" />
