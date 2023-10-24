@@ -55,6 +55,8 @@
  
 ## Techs Experience
 
+`▶ Here's some of my tricks`
+
 <img src="./assets/images/tech-banner.png" />
 
 ### Languages and Frameworks
@@ -117,6 +119,8 @@
 <br />
   
 ## Projects
+
+`▶ My efforts generates results`
 
 ### Portfolio Bootstrap
 <ul align="left">
