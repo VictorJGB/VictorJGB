@@ -1,6 +1,6 @@
 <h1 align="center">Welcome, it's a pleasure to introduce myself</h1>
-<!-- <img src="./assets/images/banner-1.png" /> -->
-<img src="./assets/gifs/deku-02.gif" width="100%" />
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F724305552575086882%2F&psig=AOvVaw2FfEjwviRoelgQ_hgssU_G&ust=1698245069275000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCIiYooX2joIDFQAAAAAdAAAAABAD" />
+<!-- <img src="./assets/gifs/deku-02.gif" width="100%" /> -->
 <br />
 
 ## About me
