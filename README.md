@@ -6,12 +6,12 @@
 
 ### Who is Jerry?
 <div style={"display: flex"}>
-  <div align="left">
-    - Studying Information Systems at IFCE (Instituto Federal do Ceará)
-    - 20 years
-    - Front-end Developer
-    - Passion for technology, play games and watch animes at free time
-    - "My magic is to not give up"
+  <ul align="left">
+    <li>Studying Information Systems at IFCE (Instituto Federal do Ceará)</li>
+    <li>20 years</li>
+    <li>Front-end Developer</li>
+    <li>Passion for technology, play games and watch animes at free time</li>
+    <li>"My magic is to not give up"</li>
   </div>
   <img src="https://github.com/VictorJGB/VictorJGB/blob/main/assets/gifs/modern-work.gif" width="100px" align="right"/>
 </div>
