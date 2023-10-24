@@ -1,11 +1,11 @@
 # Welcome, it's a pleasure to introduce myself
-<img src="https://github.com/VictorJGB/VictorJGB/blob/main/assets/images/banner-1.png" />
+<img src="./assets/images/banner-1.png" />
 <br />
 
 ## About me
 
 ### Who is Jerry?
-<div>
+<div style={"display: flex"}>
   <div>
     - Studying Information Systems at IFCE (Instituto Federal do Ceará)
     - 20 years
