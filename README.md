@@ -10,9 +10,9 @@
 </h1>
 
 ### Who is Jerry?
-<div align="center" style="display: inline_block;">
-    <img align="right" src="https://media.tenor.com/rW9RRMseYK0AAAAC/deku-izuku-midoriya.gif" width="300px"/>
-    <ul align="left">
+<div align="left"">
+    <img src="https://media.tenor.com/rW9RRMseYK0AAAAC/deku-izuku-midoriya.gif" width="300px"/>
+    <ul>
         <li>Studying Information Systems at IFCE (Instituto Federal do Ceará)</li>
         <li>20 years</li>
         <li>Front-end Developer</li>
