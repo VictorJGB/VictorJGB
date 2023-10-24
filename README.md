@@ -1,6 +1,6 @@
 <h1 align="center">Welcome, it's a pleasure to introduce myself</h1>
 <div align="center">
-    <img src="https://i.pinimg.com/originals/49/41/43/4941430a113739775b3fafbe8d1a81b2.gif" align="center"/>
+    <img src="https://media.tenor.com/00t6LtNWYfYAAAAC/deku-izuku-midoriya.gif" align="center"/>
 </div>
 <!-- <img src="./assets/gifs/deku-02.gif" width="100%" /> -->
 <br />
