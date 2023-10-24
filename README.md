@@ -1,4 +1,8 @@
-<h1 align="center">Welcome, it's a pleasure to introduce myself</h1>
+<h1 align="center">
+    💻Hi, I'm Victor Jerrysson 💻</br>
+    it's a pleasure to introduce myself
+</h1>
+
 <div align="center">
     <img src="https://media.tenor.com/00t6LtNWYfYAAAAC/deku-izuku-midoriya.gif" align="center"/>
 </div>
@@ -10,13 +14,15 @@
 </h1>
 
 ### Who is Jerry?
+`"Ok but, who is this guy?"`
 <div align="left">
-    <img align="right" src="https://media.tenor.com/rW9RRMseYK0AAAAC/deku-izuku-midoriya.gif" width="250px"/>
+    <img align="right" src="https://media.tenor.com/rW9RRMseYK0AAAAC/deku-izuku-midoriya.gif" width="300px"/>
     <ul align="left">
         <li>Studying Information Systems at IFCE (Instituto Federal do Ceará)</li>
-        <li>20 years</li>
+        <li>21 years</li>
         <li>Front-end Developer</li>
         <li>Passion for technology, play games and watch animes at free time</li>
+        <li>Big fan of Midoriya Izuku (As u can see)</li>
         <li>"My magic is to not give up"</li>
     </ul>
 </div>
@@ -24,6 +30,10 @@
 </br>
 
 ### Stats
+`▶ Check out my stats`
+
+<img src="./assets/gifs/3d-statistics.gif" width="500px"/>
+
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats" align="right">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorJGB&layout=compact&theme=tokyonight" />
@@ -36,15 +46,20 @@
 </br>
 
 ### Contact:
- - <a href="mailto:victorgb.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" ></a>
- - <a href="https://www.linkedin.com/in/jerry-dev-084793203" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
-  - <a href="https://instagram.com/_jerryGB" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+`▶ Here's where you can find me`
+- <a href="mailto:victorgb.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" ></a>
+- <a href="https://www.linkedin.com/in/jerry-dev-084793203" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
+- <a href="https://instagram.com/_jerryGB" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  
  <br />
  
 ## Techs Experience
 
+<img src="./assets/images/tech-banner.png" />
+
 ### Languages and Frameworks
+
+
 <div style="display: inline_block">
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   -
