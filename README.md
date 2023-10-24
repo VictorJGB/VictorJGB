@@ -1,10 +1,7 @@
-<div align="center" >
-    <h1 align="center">
-        💻Hi, I'm Victor Jerrysson 💻</br>
-        it's a pleasure to introduce myself
-    </h1>
-    `Sit back and enjoy the ride`
-</div>
+<h1 align="center">
+    💻Hi, I'm Victor Jerrysson 💻</br>
+    it's a pleasure to introduce myself
+</h1>
 
 
 <div align="center">
