@@ -32,7 +32,7 @@
 ### Stats
 `▶ Check out my stats`
 
-<img src="./assets/gifs/3d-statistics.gif" width="500px"/>
+<img src="./assets/images/statistics.png" />
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats" align="right">
