@@ -5,7 +5,7 @@
 ## About me
 
 ### Who is Jerry?
-<ul align="left" width="50%">
+<ul align="left">
     <li>Studying Information Systems at IFCE (Instituto Federal do Ceará)</li>
     <li>20 years</li>
     <li>Front-end Developer</li>
