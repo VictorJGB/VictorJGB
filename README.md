@@ -157,9 +157,17 @@
 
 
 ### Aura Discord
-[repository](https://github.com/VictorJGB/aura-discord)
-
-![aura_discord_screenshot](https://github.com/VictorJGB/VictorJGB/assets/62398638/ab33e6c1-5a71-4ec5-b98c-7f1c2b375308)
+<ul align="left">
+    <li>Repository: <a href="https://github.com/VictorJGB/aura-discord" target="_blank">Aura Discord</a></li>
+    <li>Techs:  
+        <code>
+            <img align="center" alt="react" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="30px"/>            </code>
+        <code>
+            <img align="center" alt="typescript" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="30px"/>
+        </code>
+    </li>
+</ul>
+<img src="./assets/images/premier-brasil.png" width="600px"/>
 
  <br />
   
