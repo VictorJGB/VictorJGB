@@ -19,14 +19,14 @@
         <li>Passion for technology, play games and watch animes at free time</li>
         <li>"My magic is to not give up"</li>
     </ul>
-    <img src="https://github.com/VictorJGB/VictorJGB/blob/main/assets/gifs/modern-work.gif" width="200px" align="right"/>
 </div>
 
 ### Stats
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorJGB&theme=tokyonight&repo=github-readme-stats" />
-  </a>
+<div align="center">
+    <img src="https://media.tenor.com/H5JGv2OpfVUAAAAd/deku-excited.gif" width="300px" align="left" />
+    <a href="https://github.com/anuraghazra/github-readme-stats" align="right">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorJGB&theme=tokyonight&repo=github-readme-stats" />
+    </a>
 </div>
 
 ### Contact:
