@@ -92,13 +92,11 @@
 ## Some of my projects
 
 ### Portfolio Bootstrap
-<div style="dislay: block;">
-    <ul>
-        <li>Repositorio: <a href="https://github.com/VictorJGB/portifolio-bootstrap" target="_blank">portifolio-bootstrap</a></li>
-        <li>Demo: <a href="https://portifolio-bootstrap-kappa.vercel.app" target="_blank">vercel</a></li>
-    </ul>
-    <img src="./assets/images/portifolio-boostrap.png" width="400px"/>
-</div>
+<ul align="left">
+    <li>Repositorio: <a href="https://github.com/VictorJGB/portifolio-bootstrap" target="_blank">portifolio-bootstrap</a></li>
+    <li>Demo: <a href="https://portifolio-bootstrap-kappa.vercel.app" target="_blank">vercel</a></li>
+</ul>
+<img src="./assets/images/portifolio-boostrap.png" width="600px"/>
 
 
 
