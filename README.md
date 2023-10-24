@@ -10,9 +10,9 @@
 </h1>
 
 ### Who is Jerry?
-<div align="left"">
-    <img src="https://media.tenor.com/rW9RRMseYK0AAAAC/deku-izuku-midoriya.gif" width="300px"/>
-    <ul>
+<div align="left">
+    <img align="right" src="https://media.tenor.com/rW9RRMseYK0AAAAC/deku-izuku-midoriya.gif" width="250px"/>
+    <ul align="left">
         <li>Studying Information Systems at IFCE (Instituto Federal do Ceará)</li>
         <li>20 years</li>
         <li>Front-end Developer</li>
@@ -21,13 +21,19 @@
     </ul>
 </div>
 
+</br>
+
 ### Stats
 <div align="center">
-    <img src="https://media.tenor.com/H5JGv2OpfVUAAAAd/deku-excited.gif" width="300px" align="left" />
+    <a href="https://github.com/anuraghazra/github-readme-stats" align="right">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorJGB&layout=compact&theme=tokyonight" />
+    </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" align="right">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorJGB&theme=tokyonight&repo=github-readme-stats" />
     </a>
 </div>
+
+</br>
 
 ### Contact:
  - <a href="mailto:victorgb.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" ></a>
@@ -95,22 +101,32 @@
 
 <br />
   
-## Some of my projects
+## Projects
 
 ### Portfolio Bootstrap
 <ul align="left">
     <li>Repositorio: <a href="https://github.com/VictorJGB/portifolio-bootstrap" target="_blank">portifolio-bootstrap</a></li>
     <li>Demo: <a href="https://portifolio-bootstrap-kappa.vercel.app" target="_blank">vercel</a></li>
+    <li>Techs:  
+        <code><img align="center" alt="angular" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" width="30px"/></code>
+        <code><img align="center" alt="typescript" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="30px" /></code>
+        <code><img align="center" alt="angular" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" width="30px" /></code>
+    </li>
 </ul>
 <img src="./assets/images/portifolio-boostrap.png" width="600px"/>
 
 
-
 ### Premier Brasil
-[Demo](premierbrasil1bi.com.br)
+<ul align="left">
+    <li>Demo: <a href="premierbrasil1bi.com.br" target="_blank">Premier Brasil</a></li>
+    <li>Techs:  
+        <code><img align="center" alt="angular" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" width="30px"/></code>
+        <code><img align="center" alt="typescript" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="30px" /></code>
+        <code><img align="center" alt="angular" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" width="30px" /></code>
+    </li>
+</ul>
+<img src="./assets/images/premier-brasil.png" width="600px"/>
 
-![premier_01](https://user-images.githubusercontent.com/62398638/233527063-0fd6c852-2e26-4e65-8fd9-6b846bf0f802.png)
-![premier_02](https://user-images.githubusercontent.com/62398638/233529823-04b8ed81-fbd1-469f-8171-a12f50f9b569.png)
 
 ### Aura Discord
 [repository](https://github.com/VictorJGB/aura-discord)
