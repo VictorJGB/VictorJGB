@@ -5,11 +5,16 @@
 ## About me
 
 ### Who is Jerry?
-- Studying Information Systems at IFCE (Instituto Federal do Ceará)
-- 20 years
-- Front-end Developer
-- Passion for technology, play games and watch animes at free time
-- "My magic is to not give up"
+<div>
+  <div>
+    - Studying Information Systems at IFCE (Instituto Federal do Ceará)
+    - 20 years
+    - Front-end Developer
+    - Passion for technology, play games and watch animes at free time
+    - "My magic is to not give up"
+  </div>
+  <img src="https://github.com/VictorJGB/VictorJGB/blob/main/assets/gifs/modern-work.gif" />
+</div>
 
 ### Stats
 <div>
