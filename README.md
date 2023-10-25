@@ -17,7 +17,7 @@
 ### Who is Jerry?
 `"Ok but, who is this guy?"`
 <div align="left">
-    <img align="right" src="https://media.tenor.com/rW9RRMseYK0AAAAC/deku-izuku-midoriya.gif" width="300px"/>
+    <img align="right" src="https://media.tenor.com/rW9RRMseYK0AAAAC/deku-izuku-midoriya.gif" width="350px"/>
     <ul align="left">
         <li>Studying Information Systems at IFCE (Instituto Federal do Ceará)</li>
         <li>21 years</li>
