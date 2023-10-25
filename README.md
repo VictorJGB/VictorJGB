@@ -170,7 +170,10 @@
 ## Reference
 
 ### Icons
-  - [Badges](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+  - <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile" target="_blank">Badges</a>
+  - <a href="https://github.com/marwin1991/profile-technology-icons" target="_blank">Tech Icons</a>
+  - <a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub" target="_blank">Banners</a>
+  - <a href="https://giphy.com/" target="_blank">GIFs</a>
 
 ## See u next time!
 <img src="./assets/gifs/deku-01.gif" />
