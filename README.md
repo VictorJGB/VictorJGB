@@ -135,9 +135,10 @@
     <li>Repository: <a href="https://github.com/VictorJGB/portifolio-bootstrap" target="_blank">portifolio-bootstrap</a></li>
     <li>Demo: <a href="https://portifolio-bootstrap-kappa.vercel.app" target="_blank">vercel</a></li>
     <li>Techs:  
-        <code><img align="center" alt="angular" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" width="30px"/></code>
-        <code><img align="center" alt="typescript" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="30px" /></code>
-        <code><img align="center" alt="angular" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" width="30px" /></code>
+        <code><img align="center" alt="html" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="30px" /></code>
+        <code><img align="center" alt="scss" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" width="30px" /></code>
+        <code><img align="center" alt="javascript" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="30px" /></code>
+        <code><img align="center" alt="bootstrap" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" width="30px" /></code>
     </li>
 </ul>
 <img src="./assets/images/portifolio-boostrap.png" width="600px"/>
