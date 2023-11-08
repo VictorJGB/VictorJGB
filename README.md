@@ -24,7 +24,7 @@
         <li>Front-end Developer</li>
         <li>Passion for technology, play games and watch animes at free time</li>
         <li>Big fan of Midoriya Izuku (As u can see)</li>
-        <li>"My magic is to not give up"</li>
+        <li>"I'm the Deku who always does his best!"</li>
     </ul>
 </div>
 
