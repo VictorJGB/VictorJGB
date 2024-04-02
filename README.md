@@ -160,7 +160,8 @@
 <ul align="left">
     <li>Live: <a href="https://empresavida.com.br/portaldocolaborador" target="_blank">Portal do Colaborador</a></li>
     <li>Techs:  
-        <code><img align="center" alt="react" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="30px"/></code>
+        <code><img align="center" alt="next" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" width="30px"/></code>
+        <code><img align="center" alt="tailwindcss" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" width="30px"/></code>
         <code><img align="center" alt="typescript" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="30px" /></code>
     </li>
 </ul>
