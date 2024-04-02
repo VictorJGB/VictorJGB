@@ -158,14 +158,13 @@
 
 ### Portal do Colaborador - Empresa Vida
 <ul align="left">
-    <li>Repository: <a href="https://github.com/VictorJGB/aura-discord" target="_blank">Aura Discord</a></li>
+    <li>Live: <a href="https://empresavida.com.br/portaldocolaborador" target="_blank">Portal do Colaborador</a></li>
     <li>Techs:  
         <code><img align="center" alt="react" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="30px"/></code>
         <code><img align="center" alt="typescript" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="30px" /></code>
     </li>
 </ul>
-<img src="./assets/images/aura-discord.png" width="600px"/>
-![portal-template](https://github.com/VictorJGB/VictorJGB/assets/62398638/8bc291fb-0f67-4e58-bc23-f1eb5bb2a411)
+<img src="https://github.com/VictorJGB/VictorJGB/assets/62398638/8bc291fb-0f67-4e58-bc23-f1eb5bb2a411" width="600px"/>
 
  <br />
   
