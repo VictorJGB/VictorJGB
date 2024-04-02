@@ -156,7 +156,7 @@
 <img src="./assets/images/premier-brasil.png" width="600px"/>
 
 
-### Aura Discord
+### Portal do Colaborador - Empresa Vida
 <ul align="left">
     <li>Repository: <a href="https://github.com/VictorJGB/aura-discord" target="_blank">Aura Discord</a></li>
     <li>Techs:  
@@ -165,6 +165,7 @@
     </li>
 </ul>
 <img src="./assets/images/aura-discord.png" width="600px"/>
+![portal-template](https://github.com/VictorJGB/VictorJGB/assets/62398638/8bc291fb-0f67-4e58-bc23-f1eb5bb2a411)
 
  <br />
   
