@@ -4,7 +4,7 @@
 </h1>
 
 
-<div align="center">
+<div align="center" height="300px">
     <img src="https://github.com/VictorJGB/VictorJGB/assets/62398638/d40f7cf8-7071-4f63-a1d1-c3c60d527625" align="center"/>
 </div>
 
