@@ -7,6 +7,7 @@
 <div align="center">
     <img src="https://media.tenor.com/00t6LtNWYfYAAAAC/deku-izuku-midoriya.gif" align="center"/>
 </div>
+![intro-banner](https://github.com/VictorJGB/VictorJGB/assets/62398638/d40f7cf8-7071-4f63-a1d1-c3c60d527625)
 
 <br />
 
