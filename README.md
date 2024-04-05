@@ -23,8 +23,7 @@
         <li>21 years</li>
         <li>Front-end Developer</li>
         <li>Passion for technology, play games and watch animes at free time</li>
-        <li>Big fan of Midoriya Izuku (As u can see)</li>
-        <li>"I'm the Deku who always does his best!"</li>
+        <li>Big fan of My Hero Academy Midoriya Izuku</li>
     </ul>
 </div>
 
