@@ -17,7 +17,7 @@
 ### Who is Jerry?
 `"Ok but, who is this guy?"`
 <div align="left">
-    <img align="right" src="https://github.com/VictorJGB/VictorJGB/assets/62398638/eecc8ae6-fb1a-4bfc-ab09-39a7a1c9aade" width="350px"/>
+    <img align="right" src="https://github.com/VictorJGB/VictorJGB/assets/62398638/eecc8ae6-fb1a-4bfc-ab09-39a7a1c9aade" width="300px"/>
     <ul align="left">
         <li>Studying Information Systems at IFCE (Instituto Federal do Ceará)</li>
         <li>21 years</li>
