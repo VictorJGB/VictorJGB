@@ -27,6 +27,7 @@
         <li>"I'm the Deku who always does his best!"</li>
     </ul>
 </div>
+![man-coding](https://github.com/VictorJGB/VictorJGB/assets/62398638/eecc8ae6-fb1a-4bfc-ab09-39a7a1c9aade)
 
 </br>
 
