@@ -119,12 +119,7 @@
 
 ### Studying
 <div style="display: inline_block">
-  <img align="center" alt="next" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  -
-  <img align="center" alt="tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  -
-  <img align="center" alt="react-query" src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white">
-  
+  <img align="center" alt="next" src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white">
 </div>
 
 <br />
