@@ -22,7 +22,7 @@
         <li>Studying Information Systems at IFCE (Instituto Federal do Ceará)</li>
         <li>21 years</li>
         <li>Front-end Developer</li>
-        <li>Passion for technology, play games and watch animes at free time</li>
+        <li>Passion for technology, play games and exercise at free time</li>
         <li>Big fan of My Hero Academy Midoriya Izuku</li>
     </ul>
 </div>
