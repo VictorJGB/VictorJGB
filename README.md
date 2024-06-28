@@ -166,7 +166,7 @@
     <li>
         Partner Developer: <br />
         <a href="https://www.github.com/VitoriaPio">
-          <img width="150" height="150" src="https://github.com/VictorJGB/VictorJGB/assets/62398638/75235a15-f30e-4d3f-a5aa-99f20e71fdcd.jpeg" />
+          <img width="100" height="100" src="https://github.com/VictorJGB/VictorJGB/assets/62398638/75235a15-f30e-4d3f-a5aa-99f20e71fdcd.jpeg" />
         <a/>
     </li>
 </ul>
