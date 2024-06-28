@@ -170,8 +170,7 @@
         <a/>
     </li>
 </ul>
-<img src="https://github.com/VictorJGB/VictorJGB/assets/62398638/3b073958-e073-4635-b2cc-4b7d4b828e36" width="600px"/>
-![celsius_preview](https://github.com/VictorJGB/VictorJGB/assets/62398638/f79c7c29-8818-4308-b38b-71934fe5a3ee)
+<img src="https://github.com/VictorJGB/VictorJGB/assets/62398638/f79c7c29-8818-4308-b38b-71934fe5a3ee" width="600px"/>
 
  <br />
   
