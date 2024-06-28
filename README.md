@@ -160,14 +160,13 @@
 <ul align="left">
     <li>Live: <a href="https://celsiusrefrigeração.com.br" target="_blank">Celsius Refrigeração</a></li>
     <li>Techs:  
-        <code><img align="center" alt="react" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png4" width="30px"/></code>
-        <code><img align="center" alt="bootstrap" src="	https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" width="30px"/></code>
+        <code><img align="center" alt="react" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="30px"/></code>
+        <code><img align="center" alt="bootstrap" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" width="30px"/></code>
     </li>
     <li>
         Partner Developer:
         <a href="https://www.github.com/VitoriaPio">
-          <img width="150" height="150" src="https://user-images.githubusercontent.com/62398638/226929073-2c757280-6acf-4641-9fc1-bd7bb1f0485c.jpeg" />
-            ![vitoria_dev](https://github.com/VictorJGB/VictorJGB/assets/62398638/75235a15-f30e-4d3f-a5aa-99f20e71fdcd)
+          <img width="150" height="150" src="https://github.com/VictorJGB/VictorJGB/assets/62398638/75235a15-f30e-4d3f-a5aa-99f20e71fdcd.jpeg" />
         <a/>
     </li>
 
