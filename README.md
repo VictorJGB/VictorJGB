@@ -169,9 +169,8 @@
           <img width="150" height="150" src="https://github.com/VictorJGB/VictorJGB/assets/62398638/75235a15-f30e-4d3f-a5aa-99f20e71fdcd.jpeg" />
         <a/>
     </li>
-![celsius_preview](https://github.com/VictorJGB/VictorJGB/assets/62398638/3b073958-e073-4635-b2cc-4b7d4b828e36)
 </ul>
-<img src="https://github.com/VictorJGB/VictorJGB/assets/62398638/8bc291fb-0f67-4e58-bc23-f1eb5bb2a411" width="600px"/>
+<img src="https://github.com/VictorJGB/VictorJGB/assets/62398638/3b073958-e073-4635-b2cc-4b7d4b828e36" width="600px"/>
 
  <br />
   
