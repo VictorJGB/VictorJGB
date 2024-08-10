@@ -23,7 +23,6 @@
         <li>21 years</li>
         <li>Front-end Developer</li>
         <li>Passion for technology, play games and exercise at free time</li>
-        <li>Big fan of My Hero Academy Midoriya Izuku</li>
     </ul>
 </div>
 
