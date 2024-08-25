@@ -149,7 +149,7 @@
     <li>Techs:  
         <code><img align="center" alt="angular" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" width="30px"/></code>
         <code><img align="center" alt="typescript" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="30px" /></code>
-        <code><img align="center" alt="angular" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" width="30px" /></code>
+        <code><img align="center" alt="tailwindcss" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" width="30px" /></code>
     </li>
 </ul>
 <img src="./assets/images/premier-brasil.png" width="600px"/>
