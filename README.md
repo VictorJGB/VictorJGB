@@ -3,7 +3,6 @@
     it's a pleasure to introduce myself
 </h1>
 
-
 <div align="center">
     <img src="https://github.com/VictorJGB/VictorJGB/assets/62398638/2b406dda-771c-4616-8139-7dfec7946ce7" align="center"/>
 </div>
@@ -15,7 +14,9 @@
 </h1>
 
 ### Who is Jerry?
+
 `"Ok but, who is this guy?"`
+
 <div align="left">
     <img align="right" src="https://github.com/VictorJGB/VictorJGB/assets/62398638/eecc8ae6-fb1a-4bfc-ab09-39a7a1c9aade" width="300px"/>
     <ul align="left">
@@ -29,6 +30,7 @@
 </br>
 
 ### Stats
+
 `▶ Check out my stats`
 
 <img src="./assets/images/statistics.png" />
@@ -45,7 +47,9 @@
 </br>
 
 ### Contact:
+
 `▶ Here's where you can find me`
+
 <ul>
     <li>
         <a href="mailto:victorgb.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" ></a>      </li>
@@ -66,7 +70,6 @@
 <img src="./assets/images/tech-banner.png" />
 
 ### Languages and Frameworks
-
 
 <div style="display: inline_block">
   <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -117,6 +120,7 @@
 </div>
 
 ### Studying
+
 <div style="display: inline_block">
   <img align="center" alt="nestjs" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"> -
   <img align="center" alt="prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"> -
@@ -130,6 +134,7 @@
 `▶ My efforts generates results`
 
 ### Portfolio Bootstrap
+
 <ul align="left">
     <li>Repository: <a href="https://github.com/VictorJGB/portifolio-bootstrap" target="_blank">portifolio-bootstrap</a></li>
     <li>Live: <a href="https://portifolio-bootstrap-kappa.vercel.app" target="_blank">vercel</a></li>
@@ -142,8 +147,8 @@
 </ul>
 <img src="./assets/images/portifolio-boostrap.png" width="600px"/>
 
-
 ### Convertix
+
 <ul align="left">
     <li>Live: <a href="https://portifolio-bootstrap-kappa.vercel.app" target="_blank">Live</a></li>
     <li>Techs:  
@@ -152,12 +157,10 @@
         <code><img align="center" alt="tailwindcss" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" width="30px" /></code>
     </li>
 </ul>
-![image](https://github.com/user-attachments/assets/4081f013-14e4-4a91-a1cb-12dea3f73f90)
-
-<img src="./assets/images/premier-brasil.png" width="600px"/>
-
+<img src="./assets/images/convertix.png" width="600px"/>
 
 ### Celsius Refrigeração
+
 <ul align="left">
     <li>Live: <a href="https://celsiusrefrigeração.com.br" target="_blank">Celsius Refrigeração</a></li>
     <li>Techs:  
@@ -178,12 +181,15 @@
 ## Reference
 
 ### Icons
-  - <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile" target="_blank">Badges</a>
-  - <a href="https://github.com/marwin1991/profile-technology-icons" target="_blank">Tech Icons</a>
-  
+
+- <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile" target="_blank">Badges</a>
+- <a href="https://github.com/marwin1991/profile-technology-icons" target="_blank">Tech Icons</a>
+
 ### Medias
-  - <a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub" target="_blank">Banners</a>
-  - <a href="https://giphy.com/" target="_blank">GIFs</a>
+
+- <a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub" target="_blank">Banners</a>
+- <a href="https://giphy.com/" target="_blank">GIFs</a>
 
 ## See u next time!
+
 <img src="./assets/gifs/deku-01.gif" />
