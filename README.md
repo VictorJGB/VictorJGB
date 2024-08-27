@@ -145,13 +145,15 @@
 
 ### Convertix
 <ul align="left">
-    <li> [Live](https://convertix.vercel.app/) </li>
+    <li>Live: <a href="https://portifolio-bootstrap-kappa.vercel.app" target="_blank">Live</a></li>
     <li>Techs:  
         <code><img align="center" alt="angular" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" width="30px"/></code>
         <code><img align="center" alt="typescript" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="30px" /></code>
         <code><img align="center" alt="tailwindcss" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" width="30px" /></code>
     </li>
 </ul>
+![image](https://github.com/user-attachments/assets/4081f013-14e4-4a91-a1cb-12dea3f73f90)
+
 <img src="./assets/images/premier-brasil.png" width="600px"/>
 
 
