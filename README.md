@@ -150,6 +150,7 @@
 ### Convertix
 
 <ul align="left">
+    <li>Repo: <a href="https://github.com/VictorJGB/convertix" target="_blank">Repository</a></li>
     <li>Live: <a href="https://portifolio-bootstrap-kappa.vercel.app" target="_blank">Convertix</a></li>
     <li>Techs:  
         <code><img align="center" alt="angular" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" width="30px"/></code>
