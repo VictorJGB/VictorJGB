@@ -150,7 +150,7 @@
 ### Convertix
 
 <ul align="left">
-    <li>Live: <a href="https://portifolio-bootstrap-kappa.vercel.app" target="_blank">Live</a></li>
+    <li>Live: <a href="https://portifolio-bootstrap-kappa.vercel.app" target="_blank">Convertix</a></li>
     <li>Techs:  
         <code><img align="center" alt="angular" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" width="30px"/></code>
         <code><img align="center" alt="typescript" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="30px" /></code>
