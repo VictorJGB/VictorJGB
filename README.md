@@ -143,9 +143,7 @@
         <code><img align="center" alt="tailwindcss" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" width="30px" /></code>
     </li>
 </ul>
-<img src="./assets/images/portifolio-boostrap.png" width="600px"/>
-![portfolio](https://github.com/user-attachments/assets/63234f07-9c7c-4cc1-85dc-0d9668c25380)
-
+<img src="https://github.com/user-attachments/assets/63234f07-9c7c-4cc1-85dc-0d9668c25380" width="600px"/>
 
 ### Convertix
 
