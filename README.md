@@ -132,16 +132,15 @@
 
 `▶ My efforts generates results`
 
-### Portfolio Bootstrap
+### Portfolio NextJS
 
 <ul align="left">
-    <li>Repository: <a href="https://github.com/VictorJGB/portifolio-bootstrap" target="_blank">portifolio-bootstrap</a></li>
+    <li>Repository: <a href="https://github.com/VictorJGB/portfolio-nextjs" target="_blank">Portfolio NextJS</a></li>
     <li>Live: <a href="https://portifolio-bootstrap-kappa.vercel.app" target="_blank">vercel</a></li>
     <li>Techs:  
-        <code><img align="center" alt="html" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="30px" /></code>
-        <code><img align="center" alt="scss" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" width="30px" /></code>
-        <code><img align="center" alt="javascript" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="30px" /></code>
-        <code><img align="center" alt="bootstrap" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" width="30px" /></code>
+        <code><img align="center" alt="nextjs" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" width="30px" /></code>
+        <code><img align="center" alt="typescript" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="30px" /></code>
+        <code><img align="center" alt="tailwindcss" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" width="30px" /></code>
     </li>
 </ul>
 <img src="./assets/images/portifolio-boostrap.png" width="600px"/>
