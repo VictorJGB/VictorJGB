@@ -135,7 +135,7 @@
 ### Portfolio NextJS
 
 <ul align="left">
-    <li>Repository: <a href="https://github.com/VictorJGB/portfolio-nextjs" target="_blank">Portfolio NextJS</a></li>
+    <li>Repository: <a href="https://github.com/VictorJGB/portfolio-nextjs" target="_blank">portfolio-nextjs</a></li>
     <li>Live: <a href="https://portifolio-bootstrap-kappa.vercel.app" target="_blank">vercel</a></li>
     <li>Techs:  
         <code><img align="center" alt="nextjs" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" width="30px" /></code>
@@ -144,6 +144,8 @@
     </li>
 </ul>
 <img src="./assets/images/portifolio-boostrap.png" width="600px"/>
+![portfolio](https://github.com/user-attachments/assets/63234f07-9c7c-4cc1-85dc-0d9668c25380)
+
 
 ### Convertix
 
