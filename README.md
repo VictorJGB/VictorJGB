@@ -135,8 +135,8 @@
 ### Portfolio NextJS
 
 <ul align="left">
-    <li>Repository: <a href="https://github.com/VictorJGB/portfolio-nextjs" target="_blank">portfolio-nextjs</a></li>
-    <li>Live: <a href="https://portifolio-bootstrap-kappa.vercel.app" target="_blank">vercel</a></li>
+    <li>Repository: <a href="https://github.com/VictorJGB/portifolio-nextjs" target="_blank">portfolio-nextjs</a></li>
+    <li>Live: <a href="https://portifolio-v2-roan.vercel.app" target="_blank">vercel</a></li>
     <li>Techs:  
         <code><img align="center" alt="nextjs" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" width="30px" /></code>
         <code><img align="center" alt="typescript" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="30px" /></code>
