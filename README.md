@@ -1,6 +1,5 @@
 <h1 align="center">
-    💻Hi, I'm Victor Jerrysson 💻</br>
-    it's a pleasure to introduce myself
+    💻Hi, I'm Victor Jerrysson 💻
 </h1>
 
 <div align="center">
@@ -9,30 +8,24 @@
 
 <br />
 
-<h1>
-    About me
-</h1>
-
-### Who is Jerry?
+## About me
 
 `"Ok but, who is this guy?"`
 
 <div align="left">
     <ul align="left">
-        <li>Studying Information Systems at IFCE (Instituto Federal do Ceará)</li>
-        <li>21 years</li>
-        <li>Front-end Developer</li>
-        <li>Passion for technology, play games and exercise at free time</li>
+        <li>📚 Studying a bachelor's degree in Information Systems at IFCE (Instituto Federal do Ceará)</li>
+        <li>🕯 23 years</li>
+        <li>💻 Full stack Developer</li>
+        <li>🎮 Passion for technology, games and exercises</li>
     </ul>
 </div>
 
 </br>
 
-### Stats
+## Stats
 
 `▶ Check out my stats`
-
-<img src="./assets/images/statistics.png" />
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats" align="right">
@@ -53,7 +46,7 @@
     <li>
         <a href="mailto:victorgb.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" ></a>      </li>
     <li>
-        <a href="https://www.linkedin.com/in/jerry-dev-084793203" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-    badge&logo=linkedin&logoColor=white"></a>
+        <a href="https://www.linkedin.com/in/jerry-dev-084793203" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     </li>
     <li>
         <a href="https://instagram.com/_jerryGB" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -68,7 +61,7 @@
 
 <img src="./assets/images/tech-banner.png" />
 
-### Languages and Frameworks
+### Frontend
 
 <div style="display: inline_block">
   <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -79,21 +72,6 @@
   -
   <img align="center" alt="next" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   -
-  <img align="center" alt="tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-</div>
-  
-### Tools
-<div style="display: inline_block">
-  <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  -
-  <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-  -
-  <img align="center" alt="vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-   -
-  <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-   -
-  <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-   -
   <img align="center" alt="shadcnui" src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white">
   -
   <img align="center" alt="react-query" src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white">
@@ -103,7 +81,33 @@
   <img align="center" alt="zod" src="https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=3068B7">
   -
   <img align="center" alt="eslint" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
+  -
+  <img align="center" alt="tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+</div>
+
+### Backend
+
+<div style="display: inline_block">
+    <img align="center" alt="prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
+    -
+    <img align="center" alt="fastify" src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white">
+    -
+    <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+    -
+    <img align="center" alt="node" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white">
+    -
+    <img align="center" alt="node" src="https://img.shields.io/badge/hono-E36002?style=for-the-badge&logo=hono&logoColor=white">
+</div>
   
+### Tools
+<div style="display: inline_block">
+  <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  -
+  <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  -
+  <img align="center" alt="vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  -
+  <img align="center" alt="vercel" src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white">
   
 </div>
 </div>
@@ -115,15 +119,23 @@
   <img align="center" alt="yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
   - 
   <img align="center" alt="pnpm" src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220">
+  - 
+  <img align="center" alt="pnpm" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
   
 </div>
+
+### Database
+
+<div style="display: inline_block">
+  <img align="center" alt="nestjs" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  -
+  <img align="center" alt="nestjs" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 
 ### Studying
 
 <div style="display: inline_block">
-  <img align="center" alt="nestjs" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"> -
-  <img align="center" alt="prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"> -
-  <img align="center" alt="fastify" src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white">
+  <img align="center" alt="nestjs" src="https://img.shields.io/badge/bun-282a36?style=for-the-badge&logo=bun&logoColor=fbf0df">
+
 </div>
 
 <br />
