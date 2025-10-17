@@ -2,10 +2,6 @@
     💻Hi, I'm Victor Jerrysson 💻
 </h1>
 
-<div align="center">
-    <img src="https://github.com/VictorJGB/VictorJGB/assets/62398638/2b406dda-771c-4616-8139-7dfec7946ce7" align="center"/>
-</div>
-
 <br />
 
 ## About me
@@ -143,6 +139,19 @@
 ## Projects
 
 `▶ My efforts generates results`
+### Fintrack: Financial manager
+
+<ul align="left">
+    <li>Repository: <a href="https://github.com/VictorJGB/fintrack" target="_blank">fintrack</a></li>
+    <li>Techs:  
+        <code><img align="center" alt="nextjs" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" width="30px" /></code>
+        <code><img align="center" alt="typescript" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="30px" /></code>
+        <code><img align="center" alt="tailwindcss" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" width="30px" /></code>
+        <code><img align="center" alt="bun" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bun_js.png" width="30px" /></code>
+        <code><img align="center" alt="mongodb" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" width="30px" /></code>
+    </li>
+</ul>
+<img width="600" alt="fintrack-dark-theme" src="https://github.com/user-attachments/assets/e3a9163a-b986-436f-8946-8b6e4bb0e920" />
 
 ### Portfolio NextJS
 
@@ -157,7 +166,7 @@
 </ul>
 <img src="https://github.com/user-attachments/assets/63234f07-9c7c-4cc1-85dc-0d9668c25380" width="600px"/>
 
-### Convertix
+### Convertix: Coin converter
 
 <ul align="left">
     <li>Repo: <a href="https://github.com/VictorJGB/convertix" target="_blank">Repository</a></li>
@@ -169,25 +178,6 @@
     </li>
 </ul>
 <img src="./assets/images/convertix.png" width="600px"/>
-
-### Celsius Refrigeração
-
-<ul align="left">
-    <li>Live: <a href="https://celsiusrefrigeração.com.br" target="_blank">Celsius Refrigeração</a></li>
-    <li>Techs:  
-        <code><img align="center" alt="react" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="30px"/></code>
-        <code><img align="center" alt="bootstrap" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" width="30px"/></code>
-    </li>
-    <li>
-        Partner Developer: <br />
-        <a href="https://www.github.com/VitoriaPio">
-          <img width="100" height="100" src="https://github.com/VictorJGB/VictorJGB/assets/62398638/75235a15-f30e-4d3f-a5aa-99f20e71fdcd.jpeg" />
-        <a/>
-    </li>
-</ul>
-<img src="https://github.com/VictorJGB/VictorJGB/assets/62398638/f79c7c29-8818-4308-b38b-71934fe5a3ee" width="600px"/>
-
- <br />
   
 ## Reference
 
