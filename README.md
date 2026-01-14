@@ -19,21 +19,6 @@
 
 </br>
 
-## Stats
-
-`▶ Check out my stats`
-
-<div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats" align="right">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorJGB&layout=compact&theme=tokyonight" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" align="right">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorJGB&theme=tokyonight&repo=github-readme-stats" />
-    </a>
-</div>
-
-</br>
-
 ### Contact:
 
 `▶ Here's where you can find me`
